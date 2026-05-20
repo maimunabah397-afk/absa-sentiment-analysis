@@ -1,0 +1,109 @@
+review_idx,model,aspect,sentiment,confidence
+0,Lexicon,fresh,neutral,0.3
+0,Lexicon,olive oils,neutral,0.3
+0,Lexicon,fresh cheese,positive,0.6
+0,Lexicon,herbs,positive,0.6
+0,Lexicon,produce stand,positive,0.23
+1,Lexicon,great sushi place,positive,0.62
+1,Lexicon,best sushi,positive,0.64
+1,Lexicon,place,positive,0.44
+1,Lexicon,creative specials,positive,0.44
+1,Lexicon,new atmosphere,neutral,0.3
+1,Lexicon,high side,neutral,0.3
+1,Lexicon,open mind,neutral,0.3
+1,Lexicon,questionable awards,negative,0.3
+1,Lexicon,good sushi restaurant,positive,0.57
+1,Lexicon,fun atmosphere,positive,0.51
+2,Lexicon,actual installation,neutral,0.3
+2,Lexicon,karen,neutral,0.3
+2,Lexicon,outcome,positive,0.86
+2,Lexicon,initial error,neutral,0.3
+2,Lexicon,straight line style,positive,0.21
+2,Lexicon,co.,positive,0.51
+3,Lexicon,great time,positive,0.62
+3,Lexicon,service,positive,0.62
+3,Lexicon,food,positive,0.53
+3,Lexicon,large windows,neutral,0.3
+4,Lexicon,line,positive,0.2
+4,Lexicon,service,positive,0.89
+4,Lexicon,other bike shop,neutral,0.3
+4,Lexicon,bike shop,positive,0.36
+0,Transformer,meats,positive,0.8992120623588562
+0,Transformer,fresh cheese,positive,0.9809452295303345
+0,Transformer,veggies,positive,0.9966692328453064
+0,Transformer,olive oils,positive,0.8227697014808655
+0,Transformer,steve,positive,0.996675968170166
+0,Transformer,seafood,neutral,0.6452577710151672
+0,Transformer,the fresh,positive,0.9977411031723022
+0,Transformer,specialty meats,neutral,0.7446923851966858
+0,Transformer,stand,positive,0.9976763129234314
+0,Transformer,a variety,positive,0.9978246688842773
+0,Transformer,eggs,positive,0.5568484663963318
+1,Transformer,people,negative,0.6105731725692749
+1,Transformer,sushi,neutral,0.5120018720626831
+1,Transformer,the new atmosphere,positive,0.9514564275741577
+1,Transformer,tampa bay,neutral,0.6636734008789062
+1,Transformer,value,negative,0.8830450177192688
+1,Transformer,a good sushi restaurant,positive,0.7294869422912598
+1,Transformer,creative specials,positive,0.8267335891723633
+1,Transformer,a great sushi place,positive,0.6010700464248657
+1,Transformer,a fun atmosphere,positive,0.8637080192565918
+1,Transformer,the prices,negative,0.9837979674339294
+1,Transformer,an expert,negative,0.9057428240776062
+1,Transformer,those foods,positive,0.43116986751556396
+1,Transformer,an open mind,positive,0.5812577605247498
+1,Transformer,the high side,negative,0.6967455744743347
+1,Transformer,some people,positive,0.6855431795120239
+1,Transformer,the world's best sushi,neutral,0.4089253544807434
+2,Transformer,karen,positive,0.9551816582679749
+2,Transformer,5 stars,positive,0.88865065574646
+2,Transformer,the only reason,positive,0.8633785843849182
+2,Transformer,jason,positive,0.9405321478843689
+2,Transformer,the straight line style,positive,0.7459850907325745
+2,Transformer,the actual installation,positive,0.973438560962677
+2,Transformer,saints,positive,0.9609071612358093
+2,Transformer,a straight line fence,positive,0.9115577340126038
+2,Transformer,the initial error,negative,0.7865880131721497
+2,Transformer,"a ""lay",negative,0.42159655690193176
+2,Transformer,a sales error,negative,0.8300550580024719
+2,Transformer,the outcome,positive,0.9822936654090881
+2,Transformer,"the land/rolling"" fence",neutral,0.8699902892112732
+3,Transformer,the game,positive,0.907868504524231
+3,Transformer,service,positive,0.9969061017036438
+3,Transformer,the food,positive,0.9969249367713928
+3,Transformer,the large windows,positive,0.7813138961791992
+3,Transformer,a great time,positive,0.9950451850891113
+3,Transformer,the tv,neutral,0.6563054919242859
+4,Transformer,isla vista,neutral,0.7245255708694458
+4,Transformer,the service,positive,0.9954174757003784
+4,Transformer,over 220 miles,neutral,0.7099956274032593
+4,Transformer,wine country,neutral,0.9532022476196289
+4,Transformer,the line,positive,0.8040220141410828
+4,Transformer,the area,neutral,0.8921247720718384
+4,Transformer,any other bike shop,neutral,0.5289874076843262
+4,Transformer,a group,neutral,0.7229293584823608
+4,Transformer,the price,positive,0.9520250558853149
+4,Transformer,five days,neutral,0.9741640090942383
+4,Transformer,road bikes,neutral,0.9237598776817322
+0,LLM,produce,positive,0.95
+0,LLM,variety,positive,0.9
+0,LLM,meats,positive,0.85
+0,LLM,fruit,positive,0.8
+0,LLM,olive oils,positive,0.75
+0,LLM,cheese,positive,0.7
+0,LLM,eggs,positive,0.65
+0,LLM,seafood,positive,0.6
+1,LLM,sushi,positive,0.85
+1,LLM,atmosphere,positive,0.9
+1,LLM,prices,negative,0.7
+2,LLM,remedy,positive,0.95
+2,LLM,installation,positive,0.9
+2,LLM,customer service (Jason & his assistant),positive,0.85
+2,LLM,customer service (Karen),positive,0.8
+2,LLM,initial error,negative,0.7
+3,LLM,time,positive,0.95
+3,LLM,service,positive,0.9
+3,LLM,food,positive,0.85
+4,LLM,bike shop,positive,0.9
+4,LLM,service,positive,0.95
+4,LLM,price,positive,0.85
